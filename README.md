@@ -1,0 +1,8 @@
+- 👋 こんにちは
+- 👀 仕事ではVBAとJavaを使います
+- 🌱 SEです
+
+<!---
+shio-ume/shio-ume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
